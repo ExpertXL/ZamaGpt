@@ -1,3 +1,6 @@
+<img width="1184" height="864" alt="Gemini_Generated_Image_oxljnkoxljnkoxlj" src="https://github.com/user-attachments/assets/82a6e9d0-dd40-47fe-a599-e2bd8fc11f1a" />
+
+
 # ZamaGpt - GGPT Token Operations & AI Text Generation
 
 **ZamaGpt** is a state-of-the-art AI platform that combines intelligent 
