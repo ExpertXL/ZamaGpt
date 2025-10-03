@@ -1,4 +1,5 @@
-<img width="1184" height="864" alt="Gemini_Generated_Image_oxljnkoxljnkoxlj" src="https://github.com/user-attachments/assets/82a6e9d0-dd40-47fe-a599-e2bd8fc11f1a" />
+<img width="1184" height="864" alt="Gemini_Generated_Image_mjdk54mjdk54mjdk" src="https://github.com/user-attachments/assets/7e01e6c1-da91-4e1a-82f1-83618268fec4" />
+
 
 
 # ZamaGpt - GGPT Token Operations & AI Text Generation
